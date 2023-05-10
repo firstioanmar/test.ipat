@@ -1,0 +1,13 @@
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\bin\Debug\test.app.vb.exe
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\bin\Debug\test.app.vb.pdb
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\bin\Debug\test.app.vb.xml
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\obj\x86\Debug\test.app.vb.vbprojResolveAssemblyReference.cache
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\obj\x86\Debug\test.app.vb.Form1.resources
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\obj\x86\Debug\test.app.vb.Resources.resources
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\obj\x86\Debug\test.app.vb.vbproj.GenerateResource.Cache
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\obj\x86\Debug\test.app.vb.exe
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\obj\x86\Debug\test.app.vb.xml
+C:\Users\AZTI\AppData\Local\Temporary Projects\test.app.vb\obj\x86\Debug\test.app.vb.pdb
